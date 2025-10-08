@@ -1,0 +1,9 @@
+Metric,Value
+total_transactions,981444
+total_amount,715719141.4
+avg_transaction,729.2511253
+avg_balance,101681.114
+unique_customers,836431
+date_range_start,01/08/2016 00:00
+date_range_end,21/10/2016 00:00
+data_quality_score,95.0074584

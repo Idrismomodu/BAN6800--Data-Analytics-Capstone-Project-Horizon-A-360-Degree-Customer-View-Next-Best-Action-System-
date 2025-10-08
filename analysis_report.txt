@@ -1,0 +1,18 @@
+BANK TRANSACTIONS ANALYSIS REPORT
+==================================================
+Analysis Date: 2025-10-08 11:38:54
+Total Records Analyzed: 981,444
+
+TRANSACTION INSIGHTS:
+- Total Amount Processed: ₹715,719,141.40
+- Average Transaction: ₹729.25
+- Median Transaction: ₹399.00
+
+CUSTOMER INSIGHTS:
+- Unique Customers: 836,431
+- M: 73.2%
+- F: 26.7%
+- Unknown: 0.1%
+
+TEMPORAL PATTERNS:
+- Busiest Day: Sunday
